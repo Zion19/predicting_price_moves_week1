@@ -6,7 +6,7 @@ data/
 # Python cache
 __pycache__/
 *.pyc
-
+.ipynb_checkpoints/
 # VS Code settings
 .vscode/
 
@@ -16,3 +16,6 @@ Thumbs.db
 
 # Environment variables
 .env
+
+
+
