@@ -3,3 +3,7 @@ yfinance
 ta-lib 
 pynance 
 seaborn
+pandas
+matplotlib
+nltk
+scikit-learn
